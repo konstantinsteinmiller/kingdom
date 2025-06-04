@@ -1,4 +1,4 @@
-#![Zora banner](https://github.com/konstantinsteinmiller/kingdom/blob/master/src/assets/documentation/kingdom_banner_1331x430.jpg)
+#![Kingdom banner](https://github.com/konstantinsteinmiller/kingdom/blob/master/src/assets/documentation/kingdom_banner_1331x430.jpg)
 
 # Kingdom
 
